@@ -3,5 +3,5 @@
 /image/cache
 /image/local
 /image/chroot*
-/live-image*
-
+/image/live-image*
+/image/binary.modified_timestamps
