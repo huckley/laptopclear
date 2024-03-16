@@ -1,0 +1,7 @@
+/image/.build
+/image/binary
+/image/cache
+/image/local
+/image/chroot*
+/live-image*
+
